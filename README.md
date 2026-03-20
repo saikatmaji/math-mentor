@@ -33,3 +33,17 @@ Math Mentor is a modern and responsive Math Tuition Website built using Tailwind
 - Tailwind CSS – Utility-first CSS framework for building responsive and modern UI
 
 ---
+
+## 🧑‍💻 Developer
+
+<p>
+Saikat Maji
+<br>
+🌟 Frontend Developer | Tech Explorer | Passionate Builder
+<br>
+🔗
+<a href="https://github.com/saikatmaji">GitHub</a> |
+<a href="https://www.linkedin.com/in/saikatmaji/">LinkedIn</a>
+</p>
+
+---
