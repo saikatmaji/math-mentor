@@ -26,3 +26,10 @@ Math Mentor is a modern and responsive Math Tuition Website built using Tailwind
 - 💬 Quick Contact Options – Easy access to contact via phone or mail.
 
 ---
+
+## 🛠️ Tech Stack
+
+- HTML5 – Structured the webpage content and layout
+- Tailwind CSS – Utility-first CSS framework for building responsive and modern UI
+
+---
